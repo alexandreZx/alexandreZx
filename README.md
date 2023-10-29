@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  👨‍🎓Formação: <strong>Tecnico em marketing e vendas pela ETEC, Dev Full-Stack pela GROWDEV.</strong>
+  👨‍🎓Formação: <strong>Tecnico em marketing e vendas pela ETEC, Dev Full-Stack pela GROWDEV, cursando ADS na Unicesumar.</strong>
 </p>
 
 <p align="left">
