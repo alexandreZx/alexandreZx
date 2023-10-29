@@ -11,11 +11,11 @@
 </p>
 
 <p align="left">
-  👨‍🎓Formação: <strong>Tecnico em marketing e vendas pela ETEC, Dev Full-Stack pela GROWDEV, cursando ADS na Unicesumar.</strong>
+  👨‍🎓Formação: <strong>Tecnico em marketing e vendas pela ETEC, Dev Full-Stack pela GROWDEV.</strong>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML/CSS/NODEJS/TYPESCRIPT/REACT</strong>
+  🦄 Linguagens && Tecnologias: <strong>HTML/CSS/NODEJS/TYPESCRIPT/REACT/JS</strong>
 </p>
 
 <p align="left">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
-  📘 Estudando: <strong>primeiro modulo de Front-end.</strong> ⤵️
+  📘 Estudando: <strong>cursando ADS na Unicesumar.</strong> ⤵️
 </p>
 
 <p align="left">
